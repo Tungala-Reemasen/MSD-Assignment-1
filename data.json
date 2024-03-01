@@ -1,0 +1,45 @@
+[
+    {
+        "id": "1",
+        "name": "Virat  Kohli",
+        "jerseyNo": 18,
+        "country": "India",
+        "playerType": "Batsman"
+    },
+    {
+        "id": "2",
+        "name": "M S Dhoni",
+        "jerseyNo": 7,
+        "country": "India",
+        "playerType": "Batsman"
+    },
+    {
+        "id": "3",
+        "name": "Hardik Pandya",
+        "jerseyNo": 33,
+        "country": "India",
+        "playerType": "All-rounder"
+    },
+    {
+        "id": "4",
+        "name": "Rohit Sharma",
+        "jerseyNo": 45,
+        "country": "India",
+        "playerType": "Batsman"
+    },
+    {
+        "id": "5",
+        "name": "Shubman Gill",
+        "jerseyNo": 77,
+        "country": "India",
+        "playerType": "Batsman"
+    },
+    {
+        "id": "6",
+        "name": "Jasprit Bumrah ",
+        "jerseyNo": 93,
+        "country": "India",
+        "playerType": "Bowler"
+    }
+    
+]
